@@ -1,0 +1,16 @@
+{
+  "name": "Le Grand Prix de Camille",
+  "short_name": "GP Camille",
+  "description": "Mini-jeu de saut d'obstacles — cadeau de Parrain Arnaud pour les 12 ans de Camille.",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#7cc8f5",
+  "theme_color": "#7cc8f5",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
